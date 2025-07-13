@@ -1,6 +1,6 @@
 {
-  "name": "@mystist/react-chatgpt",
-  "version": "0.0.93",
+  "name": "@liber-gong/react-chatgpt",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -29,7 +29,7 @@
     "react": ">=18.2.0",
     "react-dom": ">=18.2.0"
   },
-  "repository": "https://github.com/mystist/react-chatgpt",
+  "repository": "https://github.com/liber-gong/react-chatgpt",
   "dependencies": {
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
