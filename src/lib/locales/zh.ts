@@ -8,7 +8,7 @@ export const messages = {
   cancel: '取消',
   isThinking: '正在思考',
   justNow: '刚刚',
-  yearAgo: '${0} 年前',
+  yearsAgo: '${0} 年前',
   monthsAgo: '${0} 个月前',
   daysAgo: '${0} 天前',
   hoursAgo: '${0} 小时前',
